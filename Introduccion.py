@@ -1,4 +1,4 @@
-'''
+/*
 Bienvenidos al curso de programación,
 donde exploraremos el fascinante mundo de la creación de software y su importancia en la actualidad.
 La programación es una disciplina esencial en la era digital en la que vivimos.
@@ -21,5 +21,4 @@ para prosperar en el mundo moderno. ¡La programación está en todas partes y e
 abrirá un mundo de posibilidades!
 
 Joel Enrique Urquiza Martinez
-'''
-print("Hola raton sin cola")
+*/
