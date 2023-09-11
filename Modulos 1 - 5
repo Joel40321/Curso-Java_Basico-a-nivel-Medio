@@ -1,0 +1,32 @@
+Módulo 1: Introducción a Java (Nivel Básico)
+
+En este módulo, los estudiantes aprenderán los conceptos fundamentales de Java, incluyendo la sintaxis básica, variables, 
+tipos de datos, operadores y estructuras de control como condicionales y bucles. También se introducirán a la 
+programación orientada a objetos (POO) y cómo crear clases y objetos simples.
+
+Módulo 2: Programación Orientada a Objetos (Nivel Básico/Intermedio)
+
+En este módulo, profundizaremos en los principios de la POO en Java, incluyendo conceptos como encapsulación, herencia, 
+polimorfismo y abstracción. Los estudiantes aprenderán a diseñar clases, crear relaciones entre objetos y utilizar conceptos 
+avanzados de POO para resolver problemas más complejos.
+
+Módulo 3: Estructuras de Datos (Nivel Intermedio)
+
+En este módulo, nos centraremos en las estructuras de datos en Java, como arrays, listas, conjuntos y mapas. Los estudiantes 
+aprenderán a seleccionar la estructura de datos adecuada para diferentes situaciones y cómo realizar operaciones comunes de 
+manipulación de datos, como búsqueda, inserción y eliminación.
+
+Módulo 4: Programación Multihilo y Excepciones (Nivel Intermedio/Avanzado)
+
+Este módulo abordará la programación multihilo en Java, enseñando a los estudiantes cómo crear aplicaciones concurrentes y evitar 
+problemas de sincronización. También se explorarán las excepciones y cómo manejarlas adecuadamente para mejorar la robustez de las 
+aplicaciones.
+
+Módulo 5: Patrones de Diseño y Programación Avanzada (Nivel Avanzado)
+
+En este último módulo, los estudiantes aprenderán sobre patrones de diseño de software comunes, como Singleton, Factory, Observer, 
+entre otros. También se explorarán temas avanzados como entrada/salida de archivos, programación de red y uso de bibliotecas externas.
+
+Estos módulos te proporcionarán una base sólida en Java y abordarán los tres pilares de la programación. 
+A medida que avanzas en los módulos, podrás construir habilidades más avanzadas y aplicarlas en proyectos prácticos. 
+Recuerda que la práctica constante es esencial para convertirse en un programador competente en Java.
